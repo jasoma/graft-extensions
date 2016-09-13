@@ -1,0 +1,4 @@
+moduleName=neo4j-extensions
+moduleVersion=@NEO_VERSION@
+extensionClasses=com.github.jasoma.graft.extensions.Neo4jExtensions
+
